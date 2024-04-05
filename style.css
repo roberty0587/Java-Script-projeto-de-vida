@@ -56,7 +56,7 @@ border-top: none;
 
 }
 .botao:first-child{
-border-radius: 40px 40px 0 0;
+border-radius: 40px 40px 0 0; 
 
 }
 
@@ -77,17 +77,22 @@ display: block;
 .aba-conteudo{
     display: none;
 }
+
 .aba-conteudo-titulo-principal{
-font-size: 28px;
-text-align: center;
+
+    font-size: 28px;
+    text-align: center;
 
 }
+
 .aba-conteudo-titulo-secundario{
 text-align: center;
 color: var(--verde);
 text-transform: uppercase;
 
+
 }
+
 
 
 
