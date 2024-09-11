@@ -1,1 +1,1 @@
-# Java-Script-projeto-de-vida
+# Javascript-gerador-senha
